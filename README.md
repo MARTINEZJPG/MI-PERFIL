@@ -1,5 +1,5 @@
 # MI-PERFIL
-# ¡Hola! Soy Angel 👋
+# # ¡Hola! Soy Angel 👋
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MARTINEZJPG&color=blueviolet&style=flat-square" alt="Visitas" />
@@ -8,12 +8,12 @@
 ---
 
 ## 🚀 Sobre Mí
-¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado del desarrollo web y la tecnología. Me encanta aprender cosas nuevas constantemente y crear soluciones eficientes.
+¡Bienvenido/a a mi perfil! Soy una persona sumamente **trabajadora**, curiosa por naturaleza y siempre lista para el siguiente reto. Me define el gusto por descubrir lo inusual y aprender constantemente.
 
-* 🔭 **Actualmente estoy trabajando en:** Mejorar mis habilidades en desarrollo frontend y backend.
-* 🌱 **Estoy aprendiendo:** JavaScript moderno, frameworks y control de versiones avanzado.
-* 👯 **Busco colaborar en:** Proyectos de código abierto interesantes.
-* 💬 **Pregúntame sobre:** HTML, CSS y desarrollo web básico.
+* 🛠️ **Espíritu trabajador:** Si hay algo que hacer, me pongo manos a la obra hasta que quede perfecto.
+* 👁️ **Fascinación por lo extraño:** Me apasionan las cosas fuera de lo común, lo misterioso y lo que rompe los moldes tradicionales.
+* 🧭 **Explorador nato:** Me encanta explorar nuevos temas, tecnologías, lugares y conceptos. ¡La rutina no es lo mío!
+* 🍕 **Buen diente:** Me gusta comer mucho y disfrutar de la buena comida (¡un gran motor para recargar energías!).
 
 ---
 
@@ -38,7 +38,7 @@
 
 ---
 
-## 📫 Cómo contactarme
+## 📫 Hablemos de cosas interesantes
 
 * 📧 **Correo electrónico:** tu-correo@ejemplo.com
 * 💼 **LinkedIn:** [Tu Nombre](https://linkedin.com/in/tu-usuario)
