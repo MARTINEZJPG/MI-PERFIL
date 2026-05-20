@@ -38,7 +38,11 @@
 
 ---
 
-## 📫 Hablemos de cosas interesantes
+## 💼 Zona de Clientes
 
-* 📧 **Correo electrónico:** tu-correo@ejemplo.com
-* 💼 **LinkedIn:** [Tu Nombre](https://linkedin.com/in/tu-usuario)
+¡Hagamos realidad tus ideas! Trabajo de forma estructurada para darte el mejor resultado.
+
+| 📋 Tipo de Solicitud | ⏱️ Tiempo de Respuesta | 🔗 Enlace al Formulario |
+| :--- | :--- | :--- |
+| **Páginas Web / Frontend** | Menos de 24 horas | [Llenar Formulario 🚀](TU_ENLACE_DE_GOOGLE_FORMS_AQUÍ) |
+| **Consultas Generales** | Menos de 48 horas | [Llenar Formulario 🚀](TU_ENLACE_DE_GOOGLE_FORMS_AQUÍ) |
