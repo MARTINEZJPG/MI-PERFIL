@@ -1,70 +1,90 @@
-# MI-PERFIL
-# ¡Hola! Soy MARTINEZJPG 👋
+# 👨‍💻 ¡Hola! Soy JEDLY 🚀
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MARTINEZJPG&color=blueviolet&style=flat-square" alt="Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=JEDLY&color=blueviolet&style=for-the-badge" alt="Visitas" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=💻+Estudiante+de+Software;🚀+Desarrollador+en+crecimiento;🏢+Emprendedor+de+tecnología;✨+Amante+de+la+innovación" />
 </p>
 
 ---
 
 ## 🚀 Sobre Mí
-¡Bienvenido/a a mi perfil! Soy una persona sumamente **trabajadora**, curiosa por naturaleza y siempre lista para el siguiente reto. Me define el gusto por descubrir lo inusual y aprender constantemente.
 
-* 🛠️ **Espíritu trabajador:** Si hay algo que hacer, me pongo manos a la obra hasta que quede perfecto.
-* 👁️ **Fascinación por lo extraño:** Me apasionan las cosas fuera de lo común, lo misterioso y lo que rompe los moldes tradicionales.
-* 🧭 **Explorador nato:** Me encanta explorar nuevos temas, tecnologías, lugares y conceptos. ¡La rutina no es lo mío!
-* 🍕 **Buen diente:** Me gusta comer mucho y disfrutar de la buena comida (¡un gran motor para recargar energías!).
+✨ ¡Bienvenido/a a mi perfil!  
 
----
+Soy un **estudiante apasionado por el desarrollo de software**, siempre buscando aprender nuevas tecnologías y mejorar mis habilidades.
 
-## 🛠️ Mis Habilidades
-
-<p align="left">
-  <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  </a>
-  
-  <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  </a>
-  
-  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </a>
-  
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  </a>
-  
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+💼 Actualmente formo parte de un **emprendimiento tecnológico**, donde trabajamos en un local desarrollando **programas y soluciones para grandes empresas**, ayudando a mejorar sus procesos y llevarlas al siguiente nivel.
 
 ---
 
-## 💼 ¿Tienes un proyecto en mente?
+### 🔥 Lo que me define
 
-Si eres un cliente, tienes una idea o simplemente quieres trabajar conmigo, ¡me encantaría escucharte! Por favor, llena mi formulario de contacto haciendo clic en el botón de abajo:
+* 🛠️ **Trabajador al 100%:** Siempre doy lo mejor hasta lograr resultados de calidad.
+* 🧠 **Aprendiz constante:** Nunca dejo de aprender nuevas tecnologías.
+* 🚀 **Mentalidad emprendedora:** Busco crear soluciones reales para empresas.
+* 🌍 **Explorador tecnológico:** Me encanta descubrir cosas nuevas.
+* 🍕 **Amante de la comida:** ¡La energía también viene del buen comer!
+
+---
+
+## 🛠️ Tecnologías y Herramientas
 
 <p align="center">
-  <a href="TU_ENLACE_DE_GOOGLE_FORMS_AQUÍ" target="_blank">
-    <img src="https://img.shields.io/badge/¡Iniciar_Formulario!_🚀-0078D4?style=for-the-badge&logo=wpforms&logoColor=white" alt="Formulario de Clientes" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 </p>
+
+---
+
+## 💼 Emprendimiento 🚀
+
+🏢 Actualmente estoy desarrollando proyectos en un **emprendimiento de software**, enfocado en:
+
+- 💻 Desarrollo de sistemas empresariales  
+- 📊 Automatización de procesos  
+- 🧾 Gestión de datos y bases de datos  
+- 🌐 Soluciones web modernas  
+
+✨ *Mi objetivo es crear software que realmente ayude a las empresas a crecer.*
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MARTINEZJPG&show_icons=true&theme=visual_studio_dark&locale=es" alt="Estadísticas de GitHub" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MARTINEZJPG&layout=compact&theme=visual_studio_dark&locale=es" alt="Lenguajes más usados" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JEDLY&show_icons=true&theme=tokyonight&locale=es" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEDLY&layout=compact&theme=tokyonight&locale=es" width="48%"/>
 </p>
 
 ---
 
-## 📫 Hablemos de cosas interesantes
+## 💼 ¿Tienes un proyecto en mente?
 
-* 📧 **Correo electrónico:** tu-correo@ejemplo.com
-* 💼 **LinkedIn:** [Tu Nombre](https://linkedin.com/in/tu-usuario)
+💡 Si tienes una idea, negocio o proyecto... ¡trabajemos juntos!
+
+<p align="center">
+  <a href="TU_ENLACE_DE_GOOGLE_FORMS_AQUÍ" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Trabajemos_Juntos-00C853?style=for-the-badge&logo=googleforms&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📫 Contacto
+
+<p align="center">
+  <a href="mailto:tu-correo@ejemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/tu-usuario">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ *"Construyendo el futuro con código y creatividad"* ⭐
+</p>
