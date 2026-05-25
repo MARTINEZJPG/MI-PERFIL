@@ -1,7 +1,7 @@
 # 👨‍💻 ¡Hola! Soy JEDLY 🚀
 
 <p align="center">
-  <img src="https://github.com/tu-usuario/tu-repo/raw/main/banner.png" width="100%"/>
+  <img src="https://res.cloudinary.com/drd5yz5jk/image/upload/q_auto/f_auto/v1779738436/Chat-GPT-logo_x6odl7.webp" width="100%"/>
 </p>
 
 <p align="center">
