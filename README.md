@@ -132,3 +132,75 @@ Si tienes una idea o negocio y quieres llevarlo al siguiente nivel con tecnologÃ
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p> 
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Formulario de Clientes - Jedly</title>
+  <style>
+    body {
+      background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+      font-family: Arial, sans-serif;
+      color: white;
+      text-align: center;
+      padding: 50px;
+    }
+
+    .container {
+      max-width: 500px;
+      margin: auto;
+      background: rgba(0,0,0,0.6);
+      padding: 30px;
+      border-radius: 15px;
+      box-shadow: 0px 0px 20px #00ffcc;
+    }
+
+    h1 {
+      margin-bottom: 20px;
+    }
+
+    input, textarea {
+      width: 100%;
+      padding: 12px;
+      margin: 10px 0;
+      border: none;
+      border-radius: 8px;
+    }
+
+    button {
+      background: #00c853;
+      color: white;
+      padding: 12px;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      width: 100%;
+      font-size: 16px;
+    }
+
+    button:hover {
+      background: #009624;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <h1>ðŸš€ Solicita tu Proyecto</h1>
+
+    <form action="https://formspree.io/f/maqkbjzw" method="POST">
+      
+      <input type="text" name="nombre" placeholder="Tu nombre" required>
+      
+      <input type="email" name="email" placeholder="Tu correo" required>
+      
+      <textarea name="mensaje" rows="5" placeholder="Describe tu proyecto..." required></textarea>
+      
+      <button type="submit">Enviar</button>
+    
+    </form>
+  </div>
+
+</body>
+</html>
