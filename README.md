@@ -110,7 +110,7 @@ Desarrollo de sitios modernos y funcionales.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JEDLY&show_icons=true&theme=tokyonight"/>
-  <img src="https://https://res.cloudinary.com/drd5yz5jk/image/upload/q_auto/f_auto/v1779752827/image-9_r1afyr.png"/>
+  <img src="cloudinary.com/drd5yz5jk/image/upload/q_auto/f_auto/v1779752827/image-9_r1afyr.png"/>
 </p>
 
 ---
