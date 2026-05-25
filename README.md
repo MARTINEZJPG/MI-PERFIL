@@ -119,11 +119,6 @@ Desarrollo de sitios modernos y funcionales.
 
 Si tienes una idea o negocio y quieres llevarlo al siguiente nivel con tecnología, podemos ayudarte 🚀  
 
-<p align="center">
-  <a href="https://martinezjpg.github.io/MI-PERFIL/" target="_blank">
-    <img src="https://img.shields.io/badge/Solicitar_Proyecto-00C853?style=for-the-badge"/>
-  </a>
-</p>
 
 ---
 
