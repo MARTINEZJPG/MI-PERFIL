@@ -198,6 +198,10 @@ Si tienes una idea o negocio y quieres llevarlo al siguiente nivel con tecnolog�
       <textarea name="mensaje" rows="5" placeholder="Describe tu proyecto..." required></textarea>
       
       <button type="submit">Enviar</button>
+      ## 📋 Formulario para clientes
+
+🚀 Haz clic aquí para llenar el formulario:  
+👉 https://martinezjpg.github.io/MI-PERFIL/
     
     </form>
   </div>
