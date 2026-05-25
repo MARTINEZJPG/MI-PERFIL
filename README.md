@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/drd5yz5jk/image/upload/q_auto/f_auto/v1779738436/Chat-GPT-logo_x6odl7.webp" />
+  <img src="https://res.cloudinary.com/drd5yz5jk/image/upload/q_auto/f_auto/v1779738824/funciones_desarrollador_web_z5gf6g.webp" />
 </p>
 
 <p align="center">
