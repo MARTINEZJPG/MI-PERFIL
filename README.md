@@ -1,6 +1,11 @@
 
-
 # 👨‍💻 ¡Hola! Soy JEDLY 🚀
+
+<p align="center">
+  <a href="https://martinezjpg.github.io/MI-PERFIL/">
+    <img src="https://img.shields.io/badge/🚀_Solicitar_Proyecto-00C853?style=for-the-badge"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://res.cloudinary.com/drd5yz5jk/image/upload/q_auto/f_auto/v1779738436/Chat-GPT-logo_x6odl7.webp" width="100%"/>
@@ -110,7 +115,7 @@ Desarrollo de sitios modernos y funcionales.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JEDLY&show_icons=true&theme=tokyonight"/>
-  <img src="cloudinary.com/drd5yz5jk/image/upload/q_auto/f_auto/v1779752827/image-9_r1afyr.png"/>
+  <img src="https://res.cloudinary.com/drd5yz5jk/image/upload/q_auto/f_auto/v1779752827/image-9_r1afyr.png"/>
 </p>
 
 ---
@@ -118,7 +123,6 @@ Desarrollo de sitios modernos y funcionales.
 ## 💼 ¿Tienes un proyecto?
 
 Si tienes una idea o negocio y quieres llevarlo al siguiente nivel con tecnología, podemos ayudarte 🚀  
-
 
 ---
 
