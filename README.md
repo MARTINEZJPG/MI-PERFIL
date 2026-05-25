@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JEDLY&color=blueviolet&style=for-the-badge" />
+  <img src="https://res.cloudinary.com/drd5yz5jk/image/upload/q_auto/f_auto/v1779738436/Chat-GPT-logo_x6odl7.webp" />
 </p>
 
 <p align="center">
