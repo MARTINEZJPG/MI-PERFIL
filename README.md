@@ -167,16 +167,4 @@ Si tienes una idea o negocio y quieres llevarlo al siguiente nivel con tecnolog�
 </head>
 <body>
 
-```
-<h1>📁 Mis Archivos de Google Drive</h1>
-<p>Haz clic en el botón para acceder a todos mis archivos:</p>
-
-<a href="https://drive.google.com/drive/folders/1Wj0EhpG22swi3YdyWwnnOzMFFThFsXO6?usp=sharing" target="_blank">
-    👉 Ver mis archivos
-</a>
-```
-
-</body>
-</html>
-
 </p>
