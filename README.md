@@ -121,37 +121,37 @@ Desarrollo de sitios modernos y funcionales.
 
 ## 📚 Biblioteca de Documentos PDF
 
-Espacio dedicado al almacenamiento, organización y consulta de mis 22 documentos principales.
+Espacio dedicado al almacenamiento, organización y consulta de mis documentos y guías de desarrollo de software.
 
-### 📁 1. Desarrollo de Software y Programación
-* 📄 [Documento 01: Introducción al Desarrollo]("C:\Users\Jedly\Downloads\Ingeniería de Software_ UML y Requerimientos.pdf")
-* 📄 [Documento 02: Fundamentos de Código](pdf/programacion/doc02.pdf)
-* 📄 [Documento 03: Estructuras de Datos](pdf/programacion/doc03.pdf)
-* 📄 [Documento 04: Guía de Git y GitHub](pdf/programacion/doc04.pdf)
-* 📄 [Documento 05: Programación Orientada a Objetos](pdf/programacion/doc05.pdf)
-* 📄 [Documento 06: Desarrollo Web Frontend](pdf/programacion/doc06.pdf)
+### 📁 1. Programación Orientada a Objetos y Metodologías
+* 📄 [Documento 01: Conceptos de POO](Conceptos%20de%20Programación%20Orientada%20a%20Objetos.pdf)
+* 📄 [Documento 02: Guía Detallada de POO](Guía%20Detallada%20de%20Programación%20Orientada%20a%20Objetos.pdf)
+* 📄 [Documento 03: Comparativa Cascada vs Ágil](Comparativa%20de%20Metodologías%20de%20Desarrollo_%20Cascada%20vs%20Ágil.pdf)
+* 📄 [Documento 04: Ciclo de Vida y Gestión de Errores](Investigación_%20Ciclo%20de%20Vida%20y%20Gestión%20de%20Errores.pdf)
+* 📄 [Documento 05: Ciclo de Vida y Errores (Copia)](Investigación_%20Ciclo%20de%20Vida%20y%20Gestión%20de%20Errores%20(1).pdf)
 
-### 📁 2. Bases de Datos y Sistemas
-* 📄 [Documento 07: Introducción a Bases de Datos](pdf/sistemas/doc07.pdf)
-* 📄 [Documento 08: Consultas SQL Esenciales](pdf/sistemas/doc08.pdf)
-* 📄 [Documento 09: Diseño de Modelos Relacionales](pdf/sistemas/doc09.pdf)
-* 📄 [Documento 10: Optimización de Sistemas](pdf/sistemas/doc10.pdf)
-* 📄 [Documento 11: Gestión de Servidores](pdf/sistemas/doc11.pdf)
-* 📄 [Documento 12: Arquitectura de Software](pdf/sistemas/doc12.pdf)
+### 📁 2. Análisis y Diseño de Sistemas (UML)
+* 📄 [Documento 06: Diseño de Sistemas Informáticos](Diseño%20De%20Sistemas%20Imformaticos.pdf)
+* 📄 [Documento 07: Diagramas de Actividades UML](Diagramas%20de%20Actividades%20UML.pdf)
+* 📄 [Documento 08: Guía de Diagramas de Actividades](Guía%20de%20Diagramas%20de%20Actividades%20UML.pdf)
+* 📄 [Documento 09: Guía de Diagramas de Estado](Guía%20de%20Diagramas%20de%20Estado.pdf)
+* 📄 [Documento 10: Presentación - Diagramas de Estado](Presentación%20-%20Diagramas%20de%20Estado.pdf)
 
-### 📁 3. Gestión Empresarial y Proyectos
-* 📄 [Documento 13: Plan de Negocios Tecnológicos](pdf/gestion/doc13.pdf)
-* 📄 [Documento 14: Metodologías Ágiles (Scrum)](pdf/gestion/doc14.pdf)
-* 📄 [Documento 15: Automatización de Procesos](pdf/gestion/doc15.pdf)
-* 📄 [Documento 16: Control de Requerimientos](pdf/gestion/doc16.pdf)
-* 📄 [Documento 17: Análisis de Clientes](pdf/gestion/doc17.pdf)
+### 📁 3. Diseño de Interfaces (UI/UX) y Wireframes
+* 📄 [Documento 11: Principios UI/UX y Heurísticas de Nielsen](Principios%20de%20UI%20UX%20Usabilidad%20y%20Heurísticas%20de%20Nielsen.pdf)
+* 📄 [Documento 12: Guía Estratégica - Wireframes vs Mockups (PDF)](Guía%20Estratégica_%20Wireframes%20vs.%20Mockups.pdf)
+* 📄 [Documento 13: Guía Estratégica - Wireframes vs Mockups (PPTX)](Guía%20Estratégica_%20Wireframes%20vs.%20Mockups.pptx)
+* 📄 [Documento 14: Wireframes vs Mockups Comparison](Wireframes%20vs.%20Mockups%20Comparison.pdf)
 
-### 📁 4. Portafolio Personal y Certificaciones
-* 📄 [Documento 18: Mi Currículum Vitae](pdf/personal/mi_curriculum.pdf)
-* 📄 [Documento 19: Certificado de Estudios](pdf/personal/doc19.pdf)
-* 📄 [Documento 20: Logros Académicos](pdf/personal/doc20.pdf)
-* 📄 [Documento 21: Referencias Profesionales](pdf/personal/doc21.pdf)
-* 📄 [Documento 22: Proyecto Final de Grado](pdf/personal/doc22.pdf)
+### 📁 4. Roles, Gestión y Evaluaciones
+* 📄 [Documento 15: Rol del Analista de Diseño de Sistemas](ROL%20DE%20ANALISTA%20DE%20DISEÑOS%20DE%20SISTEMAS.pdf)
+* 📄 [Documento 16: El rol que desempeña el Analista](Rol%20que%20desempeña%20el%20analista%20de%20diseños%20de%20sistemas.pdf)
+* 📄 [Documento 17: Fase 1 DSM1 Equipo 5](Fase%201%20DSM1%20equipo%205.pdf)
+* 📄 [Documento 18: Tarea](TAREA.pdf)
+* 📄 [Documento 19: Autoevaluación Completa](Autoevaluación%20completa.pdf)
+* 📄 [Documento 20: (Espacio Disponible)](#)
+* 📄 [Documento 21: (Espacio Disponible)](#)
+* 📄 [Documento 22: (Espacio Disponible)](#)
 
 ---
 
