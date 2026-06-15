@@ -119,10 +119,46 @@ Desarrollo de sitios modernos y funcionales.
 
 ---
 
+## 📚 Biblioteca de Documentos PDF
+
+Espacio dedicado al almacenamiento, organización y consulta de mis 22 documentos principales.
+
+### 📁 1. Desarrollo de Software y Programación
+* 📄 [Documento 01: Introducción al Desarrollo](pdf/programacion/doc01.pdf)
+* 📄 [Documento 02: Fundamentos de Código](pdf/programacion/doc02.pdf)
+* 📄 [Documento 03: Estructuras de Datos](pdf/programacion/doc03.pdf)
+* 📄 [Documento 04: Guía de Git y GitHub](pdf/programacion/doc04.pdf)
+* 📄 [Documento 05: Programación Orientada a Objetos](pdf/programacion/doc05.pdf)
+* 📄 [Documento 06: Desarrollo Web Frontend](pdf/programacion/doc06.pdf)
+
+### 📁 2. Bases de Datos y Sistemas
+* 📄 [Documento 07: Introducción a Bases de Datos](pdf/sistemas/doc07.pdf)
+* 📄 [Documento 08: Consultas SQL Esenciales](pdf/sistemas/doc08.pdf)
+* 📄 [Documento 09: Diseño de Modelos Relacionales](pdf/sistemas/doc09.pdf)
+* 📄 [Documento 10: Optimización de Sistemas](pdf/sistemas/doc10.pdf)
+* 📄 [Documento 11: Gestión de Servidores](pdf/sistemas/doc11.pdf)
+* 📄 [Documento 12: Arquitectura de Software](pdf/sistemas/doc12.pdf)
+
+### 📁 3. Gestión Empresarial y Proyectos
+* 📄 [Documento 13: Plan de Negocios Tecnológicos](pdf/gestion/doc13.pdf)
+* 📄 [Documento 14: Metodologías Ágiles (Scrum)](pdf/gestion/doc14.pdf)
+* 📄 [Documento 15: Automatización de Procesos](pdf/gestion/doc15.pdf)
+* 📄 [Documento 16: Control de Requerimientos](pdf/gestion/doc16.pdf)
+* 📄 [Documento 17: Análisis de Clientes](pdf/gestion/doc17.pdf)
+
+### 📁 4. Portafolio Personal y Certificaciones
+* 📄 [Documento 18: Mi Currículum Vitae](pdf/personal/mi_curriculum.pdf)
+* 📄 [Documento 19: Certificado de Estudios](pdf/personal/doc19.pdf)
+* 📄 [Documento 20: Logros Académicos](pdf/personal/doc20.pdf)
+* 📄 [Documento 21: Referencias Profesionales](pdf/personal/doc21.pdf)
+* 📄 [Documento 22: Proyecto Final de Grado](pdf/personal/doc22.pdf)
+
+---
+
 ## 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JEDLY&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MARTINEZJPG&show_icons=true&theme=tokyonight"/>
   <img src="https://res.cloudinary.com/drd5yz5jk/image/upload/q_auto/f_auto/v1779752827/image-9_r1afyr.png"/>
 </p>
 
